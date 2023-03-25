@@ -36,7 +36,7 @@ const reviews = [
   },
   {
     id: 5,
-    name: "Aritra Biswas",
+    name: "Shubham Raj",
     job: "Software Engineer",
     image: pic5,
     text: "I had the opportunity to work with this team on a data analysis project, and I was impressed with their attention to detail and their ability to work with complex datasets. They provided valuable insights that helped us make informed business decisions. It was a pleasure working with them.",
